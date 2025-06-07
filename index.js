@@ -154,6 +154,10 @@ app.post('/participations/:id/confirm', (req, res) => {
     .catch(error => res.status(500).json({ error: 'Hubo un error al enviar el correo' }));
 });
 
+// Asegúrate de que el servidor escuche correctamente
+app.listen(PORT, () => {
+  console.log(`Servidor backend escuchando en http://localhost:${PORT}`);
+});
 
 
 
