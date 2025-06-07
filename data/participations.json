@@ -1,0 +1,383 @@
+[
+  {
+    "id": "1748659541564",
+    "fullName": "texto",
+    "phone": "texto",
+    "email": "texto",
+    "country": "texto",
+    "rifa": "texto",
+    "boletos": null,
+    "estado": "pendiente",
+    "numeros_boletos": [],
+    "comprobante_url": "1748659541556-878406245-2.png",
+    "fecha": "2025-05-31T02:45:41.564Z"
+  },
+  {
+    "id": "1748660032918",
+    "fullName": "texto",
+    "phone": "texto",
+    "email": "texto",
+    "country": "texto",
+    "rifa": "texto",
+    "boletos": null,
+    "estado": "pendiente",
+    "numeros_boletos": [],
+    "comprobante_url": "1748660032911-225757999-2.png",
+    "fecha": "2025-05-31T02:53:52.918Z"
+  },
+  {
+    "id": "1749183947105",
+    "fullName": "gabriel volcan",
+    "phone": "+5491149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "peru",
+    "rifa": "paginas-web",
+    "boletos": 1,
+    "estado": "pendiente",
+    "numeros_boletos": [],
+    "comprobante_url": "1749183947096-148973224-2.png",
+    "fecha": "2025-06-06T04:25:47.105Z"
+  },
+  {
+    "id": "1749186334174",
+    "fullName": "gabriel volcan",
+    "phone": "+5491149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "argentina",
+    "rifa": "paginas-web",
+    "boletos": 1,
+    "estado": "pendiente",
+    "numeros_boletos": [],
+    "comprobante_url": "1749186334163-173921726-WhatsApp Image 2025-05-28 at 9.02.41 PM.jpeg",
+    "fecha": "2025-06-06T05:05:34.174Z"
+  },
+  {
+    "id": "1749186434568",
+    "fullName": "gabriel volcan",
+    "phone": "+5491149175471",
+    "email": "leazerpa@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 1,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      69571
+    ],
+    "comprobante_url": "1749186434558-815636723-WhatsApp Image 2025-05-28 at 9.02.41 PM.jpeg",
+    "fecha": "2025-06-06T05:07:14.568Z"
+  },
+  {
+    "id": "1749187178982",
+    "fullName": "lea zerpa",
+    "phone": "+5804129229039",
+    "email": "leazerpa@gmail.com",
+    "country": "venezuela",
+    "rifa": "paginas-web",
+    "boletos": 1,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      835684
+    ],
+    "comprobante_url": "1749187178973-589663448-WhatsApp Image 2025-05-20 at 3.41.07 PM.jpeg",
+    "fecha": "2025-06-06T05:19:38.982Z"
+  },
+  {
+    "id": "1749188685702",
+    "fullName": "gabriel volcan",
+    "phone": "+5491149175471",
+    "email": "gabrielalejandrovolcan@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 1,
+    "estado": "pendiente",
+    "numeros_boletos": [],
+    "comprobante_url": "1749188685695-546998868-cedula.jpeg",
+    "fecha": "2025-06-06T05:44:45.702Z"
+  },
+  {
+    "id": "1749188972097",
+    "fullName": "gabriel volcan",
+    "phone": "+5491149175471",
+    "email": "gabrielalejandrovolcan@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 1,
+    "estado": "pendiente",
+    "numeros_boletos": [],
+    "comprobante_url": "1749188972086-193540014-cedula.jpeg",
+    "fecha": "2025-06-06T05:49:32.097Z"
+  },
+  {
+    "id": "1749189033553",
+    "fullName": "gabriel volcan",
+    "phone": "+5491149175471",
+    "email": "gabrielalejandrovolcan@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 1,
+    "estado": "pendiente",
+    "numeros_boletos": [],
+    "comprobante_url": "1749189033550-86786326-cedula.jpeg",
+    "fecha": "2025-06-06T05:50:33.553Z"
+  },
+  {
+    "id": "1749189418424",
+    "fullName": "gabriel volcan",
+    "phone": "+5491149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 1,
+    "estado": "pendiente",
+    "numeros_boletos": [],
+    "comprobante_url": "1749189418416-134662722-cedula.jpeg",
+    "fecha": "2025-06-06T05:56:58.424Z"
+  },
+  {
+    "id": "1749190050995",
+    "fullName": "gabriel volcan",
+    "phone": "+541149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 1,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      958175
+    ],
+    "comprobante_url": "1749190050989-406223058-WhatsApp Image 2025-05-27 at 1.43.01 PM.jpeg",
+    "fecha": "2025-06-06T06:07:30.995Z"
+  },
+  {
+    "id": "1749190564783",
+    "fullName": "gabriel volcan",
+    "phone": "+541149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 1,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      828722
+    ],
+    "comprobante_url": "1749190564778-227279411-WhatsApp Image 2025-05-27 at 1.43.01 PM.jpeg",
+    "fecha": "2025-06-06T06:16:04.783Z"
+  },
+  {
+    "id": "1749191196544",
+    "fullName": "gabriel volcan",
+    "phone": "+541149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 5,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      421811
+    ],
+    "comprobante_url": "1749191196538-407511248-WhatsApp Image 2025-05-28 at 9.02.41 PM.jpeg",
+    "fecha": "2025-06-06T06:26:36.544Z"
+  },
+  {
+    "id": "1749191470071",
+    "fullName": "gabriel volcan",
+    "phone": "+541149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 5,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      692828
+    ],
+    "comprobante_url": "1749191470066-702945814-w.png",
+    "fecha": "2025-06-06T06:31:10.071Z"
+  },
+  {
+    "id": "1749191982188",
+    "fullName": "gabriel volcan",
+    "phone": "+541149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "venezuela",
+    "rifa": "paginas-web",
+    "boletos": 3,
+    "estado": "pendiente",
+    "numeros_boletos": [],
+    "comprobante_url": "1749191982159-207850057-iconos-de-comunicacion-y-redes-sociales-en-dispositivos-de-telefonos-inteligentes.jpg",
+    "fecha": "2025-06-06T06:39:42.188Z"
+  },
+  {
+    "id": "1749192112691",
+    "fullName": "gabriel p",
+    "phone": "+541149175471",
+    "email": "gabrielalejandrovolcan@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 4,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      969261
+    ],
+    "comprobante_url": "1749192112685-740601442-Captura de pantalla 2025-05-17 000430.png",
+    "fecha": "2025-06-06T06:41:52.691Z"
+  },
+  {
+    "id": "1749234000840",
+    "fullName": "gabriel volcan",
+    "phone": "+541149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "argentina",
+    "rifa": "paginas-web",
+    "boletos": 3,
+    "estado": "pendiente",
+    "numeros_boletos": [],
+    "comprobante_url": "1749234000831-767450140-WhatsApp Image 2025-05-28 at 9.02.41 PM.jpeg",
+    "fecha": "2025-06-06T18:20:00.840Z"
+  },
+  {
+    "id": "1749235196830",
+    "fullName": "gabriel volcan",
+    "phone": "+541149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "argentina",
+    "rifa": "paginas-web",
+    "boletos": 2,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      502663
+    ],
+    "comprobante_url": "1749235196820-18678641-cedula.jpeg",
+    "fecha": "2025-06-06T18:39:56.830Z"
+  },
+  {
+    "id": "1749235824441",
+    "fullName": "gabriel volcan",
+    "phone": "+541149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "venezuela",
+    "rifa": "paginas-web",
+    "boletos": 3,
+    "estado": "pendiente",
+    "numeros_boletos": [],
+    "comprobante_url": "1749235824435-479182040-output.png",
+    "fecha": "2025-06-06T18:50:24.441Z"
+  },
+  {
+    "id": "1749236385490",
+    "fullName": "gabriel volcan",
+    "phone": "+541149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 3,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      448641
+    ],
+    "comprobante_url": "1749236385479-704489773-shutterstock_1312249301.jpg",
+    "fecha": "2025-06-06T18:59:45.490Z"
+  },
+  {
+    "id": "1749238833487",
+    "fullName": "gabriel volcan",
+    "phone": "+541149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 2,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      922402
+    ],
+    "comprobante_url": "1749238833482-300418951-cedula.jpeg",
+    "fecha": "2025-06-06T19:40:33.487Z"
+  },
+  {
+    "id": "1749239148038",
+    "fullName": "gabriel volcan",
+    "phone": "+541149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "argentina",
+    "rifa": "paginas-web",
+    "boletos": 6,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      368483
+    ],
+    "comprobante_url": "1749239148034-559918969-cedula.jpeg",
+    "fecha": "2025-06-06T19:45:48.038Z"
+  },
+  {
+    "id": "1749239395553",
+    "fullName": "gabriel p",
+    "phone": "+541149175471",
+    "email": "gabrielalejandrovolcan@gmail.com",
+    "country": "argentina",
+    "rifa": "paginas-web",
+    "boletos": 3,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      204770
+    ],
+    "comprobante_url": "1749239395551-858473297-2.png",
+    "fecha": "2025-06-06T19:49:55.553Z"
+  },
+  {
+    "id": "1749239553020",
+    "fullName": "gabriel volcan",
+    "phone": "+541149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "argentina",
+    "rifa": "premios-digitales",
+    "boletos": 3,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      115479
+    ],
+    "comprobante_url": "1749239553004-867130494-pagina web.jpg",
+    "fecha": "2025-06-06T19:52:33.020Z"
+  },
+  {
+    "id": "1749240001683",
+    "fullName": "gabriel p",
+    "phone": "+541149175471",
+    "email": "gabrieldisena1@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 3,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      414622
+    ],
+    "comprobante_url": "1749240001667-671244601-mercedes-benz-x-class-logo-3600x2401-83.jpeg",
+    "fecha": "2025-06-06T20:00:01.683Z"
+  },
+  {
+    "id": "1749242422043",
+    "fullName": "gabriel p",
+    "phone": "+541149175471",
+    "email": "gabrielalejandrovolcan@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 3,
+    "estado": "confirmado",
+    "numeros_boletos": [
+      238192
+    ],
+    "comprobante_url": "1749242422041-637514803-Captura de pantalla 2025-05-17 000430.png",
+    "fecha": "2025-06-06T20:40:22.043Z"
+  },
+  {
+    "id": "1749265931530",
+    "fullName": "gabriel volcan ",
+    "phone": "+541173658729",
+    "email": "gabrielalejandrovolcan@gmail.com",
+    "country": "argentina",
+    "rifa": "logotipos",
+    "boletos": 2,
+    "estado": "pendiente",
+    "numeros_boletos": [],
+    "comprobante_url": "1749265931499-490621125-empanadas y + modificado otro fondo-01.jpg",
+    "fecha": "2025-06-07T03:12:11.530Z"
+  }
+]
